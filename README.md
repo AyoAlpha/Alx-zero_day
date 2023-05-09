@@ -1,2 +1,1 @@
-My First Readme
-repo-session
+My First readme in this repository
